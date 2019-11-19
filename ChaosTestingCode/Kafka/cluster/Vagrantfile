@@ -1,0 +1,3 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "kwilczynski/ubuntu-16.04-docker"
+end

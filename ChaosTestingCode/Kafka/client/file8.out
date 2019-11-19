@@ -1,0 +1,17 @@
+%5|1574170591.014|REQTMOUT|rdkafka#producer-1| [thrd:172.17.0.3:9092/bootstrap]: 172.17.0.3:9092/1: Timed out ProduceRequest in flight (after 60732ms, timeout #0)
+%5|1574170591.014|REQTMOUT|rdkafka#producer-1| [thrd:172.17.0.3:9092/bootstrap]: 172.17.0.3:9092/1: Timed out ProduceRequest in flight (after 60730ms, timeout #1)
+%5|1574170591.015|REQTMOUT|rdkafka#producer-1| [thrd:172.17.0.3:9092/bootstrap]: 172.17.0.3:9092/1: Timed out ProduceRequest in flight (after 60724ms, timeout #2)
+%5|1574170591.015|REQTMOUT|rdkafka#producer-1| [thrd:172.17.0.3:9092/bootstrap]: 172.17.0.3:9092/1: Timed out ProduceRequest in flight (after 60722ms, timeout #3)
+%5|1574170591.015|REQTMOUT|rdkafka#producer-1| [thrd:172.17.0.3:9092/bootstrap]: 172.17.0.3:9092/1: Timed out ProduceRequest in flight (after 60721ms, timeout #4)
+%4|1574170591.016|REQTMOUT|rdkafka#producer-1| [thrd:172.17.0.3:9092/bootstrap]: 172.17.0.3:9092/1: Timed out 314 in-flight, 0 retry-queued, 0 out-queue, 0 partially-sent requests
+Run ID: 8 Success: 10000 Failed: 0
+Run ID: 8 Success: 15233 Failed: 4767
+Run ID: 8 Success: 15233 Failed: 14767
+Run ID: 8 Success: 15233 Failed: 24767
+Run ID: 8 Success: 24559 Failed: 25441
+Run ID: 8 Success: 34559 Failed: 25441
+Run ID: 8 Success: 44559 Failed: 25441
+Run ID: 8 Success: 54559 Failed: 25441
+Run ID: 8 Success: 64559 Failed: 25441
+Run ID: 8 Success: 74559 Failed: 25441
+Run ID: 8 Sent: 100000 Delivered: 74559 Failed: 25441
