@@ -14,7 +14,7 @@ Jinja2==2.10
 MarkupSafe==1.0
 pika==1.0.1
 PyYAML==3.11
-requests==2.19.1
+requests==2.20.0
 six==1.9.0
 urllib3==1.23
 websocket-client==0.53.0
